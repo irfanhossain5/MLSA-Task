@@ -42,7 +42,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  ". I am always looking for new challenges and opportunities to broaden my expertise. I'm also curious about the enthralling worlds of Machine Learning and Artificial Intelligence";
+  "I am always looking for new challenges and opportunities to broaden my expertise. I'm also curious about the enthralling worlds of Machine Learning and Artificial Intelligence";
 
 const About = () => {
   return (
