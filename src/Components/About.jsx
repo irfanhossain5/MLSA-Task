@@ -42,7 +42,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  ". I am always looking for new challenges and opportunities to broaden my expertise. I'm also curious about the enthralling worlds of Machine Learning and Artificial Intelligence";
 
 const About = () => {
   return (
